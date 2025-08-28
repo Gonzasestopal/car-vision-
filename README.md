@@ -1,7 +1,9 @@
-# 🚗 Kopiloto Vision
+# 🚗 Kar Vision
 
-Kopiloto Vision is a prototype AI-powered assistant that analyzes car images to detect visible damage and estimate resale value.
+Kar Vision is a prototype AI-powered assistant that analyzes car images to detect visible damage and estimate resale value.
 This project was built as a quick MVP for demonstrating how AI can accelerate car inspections in the automotive industry.
+
+![Sample](./docs/sample.png)
 
 ---
 
@@ -24,12 +26,20 @@ This project was built as a quick MVP for demonstrating how AI can accelerate ca
 
 ---
 
+## Docs
+
+You can see how classifier and segmentation pretrained models were implemented here.
+
+[Segmentation](/docs/segmentation.ipynb)
+
+[Classifier](docs/classifier.ipynb)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/kopiloto-vision.git
-cd kopiloto-vision
+git clone https://github.com/gonzasestopal/kar_vision_app.git
+cd kar_vision_app
 ```
 ### 2. Install dependencies
 ```bash

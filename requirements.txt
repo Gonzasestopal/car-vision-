@@ -1,2 +1,7 @@
-pillow
 streamlit
+ultralytics
+torch
+torchvision
+timm
+Pillow
+numpy
